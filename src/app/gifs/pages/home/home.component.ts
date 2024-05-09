@@ -1,10 +1,10 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'app-home',
-  templateUrl: './home.component.html',
-  styleUrl: './home.component.css'
+  selector: 'gifs-home-page',
+  templateUrl: './home-page.component.html',
+  styleUrl: './home-page.component.css'
 })
-export class HomeComponent {
+export class HomePageComponent {
 
 }
